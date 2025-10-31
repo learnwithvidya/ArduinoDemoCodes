@@ -1,3 +1,5 @@
+![step31](https://github.com/user-attachments/assets/d437bf07-28fe-41f8-9ffa-c875a9ee564b)
+
 # Ultrasonic Servo Gate (Class Demo)
 
 This project demonstrates how to use an **HC-SR04 Ultrasonic Sensor** with a **Servo Motor** and **LED** using an **Arduino Uno**.
