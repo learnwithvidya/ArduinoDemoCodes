@@ -2,7 +2,7 @@
 
 # Ultrasonic Servo Gate (Class Demo)
 
-This project demonstrates how to use an **HC-SR04 Ultrasonic Sensor** with a **Servo Motor** and **LED** using an **Arduino Uno**.
+This project demonstrates how to use an **HC-SR04 Ultrasonic Sensor** with a **Servo Motor** and **LED** using an **Arduino Uno** using **TinkerCad**.
 
 When an object comes within a certain distance, the servo motor simulates a **gate opening**, and the LED lights up. After a short delay, the gate closes automatically.
 
