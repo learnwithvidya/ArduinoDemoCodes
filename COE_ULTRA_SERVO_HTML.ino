@@ -4,8 +4,8 @@
 #include <Servo.h>
 
 // ---------- Wi-Fi ----------
-const char* WIFI_SSID = "AB_WIFI_73D3";
-const char* WIFI_PASS = "12345678";
+const char* WIFI_SSID = "YourWiFiSSID";
+const char* WIFI_PASS = "password";
 
 // ---------- Pins (GPIO numbers) ----------
 #define LED_PIN    5   // D1
