@@ -23,8 +23,8 @@
 #include <Servo.h>
 
 // ===== Wi-Fi (edit) =====
-const char* WIFI_SSID = "AB_WIFI_73D3";
-const char* WIFI_PASS = "12345678";
+const char* WIFI_SSID = "YourWiFiSSID";
+const char* WIFI_PASS = "password";
 
 // ===== Demo credentials (edit for class) =====
 const char* DEMO_USER = "admin";
