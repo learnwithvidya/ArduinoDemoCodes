@@ -23,3 +23,7 @@ This code and setup are for **educational demonstration only** and may be modifi
 
 
 https://drive.google.com/drive/folders/1aMe_Y60tGy_kceNpkKQlH1l8SO_Cpioh?usp=sharing
+
+espdriver link: https://arduino.esp8266.com/stable/package_esp8266com_index.json
+<img width="1430" height="88" alt="image" src="https://github.com/user-attachments/assets/53d0cd22-0056-4346-82b5-2838c95f4178" />
+
